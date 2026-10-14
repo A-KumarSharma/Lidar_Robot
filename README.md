@@ -11,6 +11,12 @@
 ## Run
     ros2 launch lidar_robot sim.launch.py     # Gazebo + bridge + lidar_reader
 
+
+## Demo Video
+
+
+
+
 Drive it (new terminal, source the workspace):
     ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
