@@ -15,7 +15,12 @@
 ## Demo Video
 
 
+https://github.com/user-attachments/assets/cecedd5c-fe6a-40d2-afb0-71be04ecaee5
 
+
+
+
+## cmds
 
 Drive it (new terminal, source the workspace):
     ros2 run teleop_twist_keyboard teleop_twist_keyboard
